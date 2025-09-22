@@ -6,7 +6,7 @@ It allows users to solve chess puzzles interactively, helping them improve their
 
 ---
 
-🛠️Technologies Used
+## 🛠️Technologies Used
 **Backend**: Python with Flask
 **Frontend**: HTML, CSS, JavaScript
 **Chess Engine**: chessboard-js library
