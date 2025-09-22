@@ -7,7 +7,7 @@ It allows users to solve chess puzzles interactively, helping them improve their
 ---
 
 ## 🛠️Technologies Used
-**Backend**: Python with Flask
-**Frontend**: HTML, CSS, JavaScript
-**Chess Engine**: chessboard-js library
-**Dataset**: Lichess Database
+- **Backend**: Python with Flask
+- **Frontend**: HTML, CSS, JavaScript
+- **Chess Engine**: chessboard-js library
+- **Dataset**: Lichess Database
